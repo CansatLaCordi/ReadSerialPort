@@ -8,6 +8,7 @@ using System.Diagnostics;
 
 namespace ReadSerialPort
 {
+    //Test
     class Program
     {
         static void Main(string[] args)
